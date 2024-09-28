@@ -1,3 +1,3 @@
 select 
     * 
-from {{ ref('int_funcionarios__preparacao') }}
+from {{ ref('int_funcionarios_preparacao') }}
